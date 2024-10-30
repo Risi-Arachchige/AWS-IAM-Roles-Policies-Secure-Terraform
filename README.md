@@ -1,4 +1,4 @@
-# How to Setup a Secure AWS IAM User Policies and Role with Terraform
+# How to Setup a Secure AWS IAM User with Policies and Role using Terraform
 
 This Terraform project demonstrates the configuration of AWS IAM resources to provide secure, limited-access permissions for a user and a role within AWS. The configuration includes an IAM user with read-only permissions to EC2, secured access keys, multi-factor authentication (MFA), and a role for trusted access by EC2 instances.
 
